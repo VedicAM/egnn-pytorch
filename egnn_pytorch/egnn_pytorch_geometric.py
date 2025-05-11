@@ -25,7 +25,7 @@ except:
     OptTensor = object
     Tensor = object
 
-from .egnn_pytorch import *
+from egnn_pytorch import *
 
 # global linear attention
 
